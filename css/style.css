@@ -50,7 +50,7 @@ body {
     line-height: 1.6;
     overflow-x: hidden;
     color: #868F9B;
-	background-color:  	#3e8ca9;
+	background-color:  	cornsilk;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -636,7 +636,7 @@ header {
 
 .about i {
     font-size: 36px;
-    color: #6195FF;
+    color: rgb(97, 255, 136);
     margin-bottom: 20px;
 }
 
@@ -663,7 +663,7 @@ header {
 }
 
 .about:hover h3 {
-    color: #fff;
+    color: rgb(97, 255, 136);;
 }
 
 
